@@ -1,4 +1,4 @@
 
-# LLM을 공부하고 있습니다.
+# LLM(Large Language Model)
 
 [1] DeepLearningAI 
