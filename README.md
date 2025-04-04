@@ -10,6 +10,6 @@
 
 # langGraph 
 
- - langGraph - Adaptive RAG
- - langGraph - self RAG  
+ - langGraph - Adaptive-RAG
+ - langGraph - self-RAG  
   
